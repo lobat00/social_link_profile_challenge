@@ -126,3 +126,10 @@ p {
         height: 80vh;
     }
 }
+
+@media (max-width: 1440px) and (min-width: 986px) {
+    .card_box {
+        width: 25vw;
+        height: 60vh;
+    }
+}
