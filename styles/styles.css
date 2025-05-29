@@ -111,19 +111,19 @@ p {
 @media (max-width: 375px) {
     .card_box {
         width: 90vw;
-        height: 80vh;
+        height: 60vh;
     }
 }
 @media (max-width: 511px) and (min-width: 376px) {
     .card_box {
         width: 70vw;
-        height: 80vh;
+        height: 60vh;
     }
 }
 @media (max-width: 986px) and (min-width: 511px) {
     .card_box {
         width: 50vw;
-        height: 80vh;
+        height: 60vh;
     }
 }
 
